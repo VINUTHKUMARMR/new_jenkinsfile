@@ -8,10 +8,8 @@ stage('BUILD') {
        sleep 5
       }
     }
-    
-    stage('test') {
-      steps {
-        
+  stage('test') {
+      steps {  
     sleep 5
       }
     }
